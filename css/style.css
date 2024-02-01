@@ -47,18 +47,8 @@ div {
     background-color: #ff0000;
     margin: 0 0 0 50px;
     border-width: 0 0 2px 5px;
-}
-.red > h2, .red > p {
     text-align: right;
 }
-
-/*.red > h2 {
-    color:#000000;
-    padding: 10px 0 5px 0;
-}
-.red > p {
-    margin-bottom: 30px;
-} */
 
 
 .blue {
@@ -68,24 +58,13 @@ div {
 }
 .blue > h2, .blue > p {
     color: #c4c4c4;
-    text-align: left;
 }
-
-/* .blue > h2 {
-    margin: 10px 0 5px 10px;
-}
-.blue > p {
-    margin-left: 25px;
-    padding-bottom: 30px;
-} */
 
 
 .yellow {
     background-color: #ffff00;
     border-width: 0 0 2px 5px;
     margin-left: 50px;
-}
-.yellow > h2, .yellow > p {
     text-align: right;
 }
 .yellow > p {
@@ -97,9 +76,6 @@ div {
     background-color: #008500;
     border-width: 2px 5px 0 0;
     margin-right: 50px;
-}
-.green > h2, .green > p {
-    text-align: left;
 }
 
 footer {
